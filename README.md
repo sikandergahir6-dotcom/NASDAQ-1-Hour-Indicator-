@@ -6,6 +6,10 @@ This was just a intital test I found that alot of the areas where consildating a
 
 Note: If you try this bot on another index, pair etc it will spam with labells asking you chnage to nasdaq. Furthermore, as this is just a draft and not the actual bot not all the trend flips have buy and sell labels with specific TP and SL's it's just being more specific
 
+Designed and implemented algorithmic trading strategies in PineScript (Nasdaq index, Gold futures), including signal generation, backtesting, and performance evaluation. Currently extending models into Python for more advanced testing and automation.
+
+the final script is on python pinescript is only used as a visual indicator 
+
 //@version=6
 indicator("SG BOT — NASDAQ 1H (Cleaned, ADX/strings fixed)", overlay=true, max_labels_count=500)
 
